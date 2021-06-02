@@ -1,18 +1,18 @@
-<br>
+ 
 <h3> Hi there 👋</h3>
 
 
 <h1> This is Aman Kumar </h1>
 <h4 > A Computer Science and Engineering student at Indian Institute of Information Technology, Ranchi </h4>
+ 
+
 <br>
-
-
 <img src = "https://komarev.com/ghpvc/?username=am-a-man" alt = "Profile image" > 
 
 
 
-<br>
-<br>
+ 
+ 
 
 <p align ="center">
 <img src="https://github-profile-trophy.vercel.app/?username=am-a-man&theme=onedark" alt = "Github Trophies" >
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know
 
 
-<br>
-<br>
+ 
+ 
 
 
 <h1>Languages and Tools :</h1>
-<br>
+ 
 
 <p align = 'center'>
 
@@ -131,16 +131,16 @@ Here are some ideas to get you started:
 
 
 
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
 
 <h1>Some  Numbers:</h1>
 <p align = 'center' >
-<img src = "https://github-readme-stats.vercel.app/api?username=am-a-man&show_icons=true&theme=dracula" alt = "Aman Kumar's Github stats" >
-<br>
-<br>
+<img src = "https://github-readme-stats.vercel.app/api?username=am-a-man&show_icons=true&theme=dark" alt = "Aman Kumar's Github stats" >
+ 
+ 
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-a-man&theme=dark" alt="Github Streak" >
@@ -149,8 +149,8 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
-<br>
+ 
+ 
 
 
 <h1>Socials</h1>
