@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 
 
 
+<a href = "https://www.selenium.dev/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/selenium.svg" alt="C" height="40" >
+</a>
+
 
 
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -167,8 +171,7 @@ Here are some ideas to get you started:
 
 <a href="http://www.linkedin.com/in/am--a-man">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" alt="LinkedIn" height="40">
-
-</a>
+ </a>
 
 
 
