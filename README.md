@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on custom ML lib using CUDA C++
 - 🌱 I’m currently learning CUDA, Data Analytics, API devlopment and deployment, database frameworks (MongoDB, SQl, etc) and TypeScript
 
-- 🤔 I’m looking for help with MakeFile, project building and design patterns
+- 🤔 I’m looking for help with design patterns 
 - 💬 Ask me about c++ and ML models and training 
 - 📫 How to reach me:  avy0219@gmail.com , aman.btech.cs19@iiiitranchi.ac.in
 
