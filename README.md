@@ -18,14 +18,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=am-a-man&theme=onedark" alt = "Github Trophies" >
 </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on custom ML lib using CUDA C++
-- 🌱 I’m currently learning CUDA, Data Analytics, API devlopment and deployment, database frameworks (MongoDB, SQl, etc) and TypeScript
-
-- 🤔 I’m looking for help with design patterns 
-- 💬 Ask me about c++ and ML models and training 
-- 📫 How to reach me:  avy0219@gmail.com , aman.btech.cs19@iiiitranchi.ac.in
+- 🌱 I can work my way around Data science projets and fullstack web dev.
+- 🔭 I want to make more contributions to building system programs.
 
 - ⚡ Fun fact: https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know
 
