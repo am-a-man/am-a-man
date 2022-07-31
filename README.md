@@ -5,7 +5,7 @@
 <h1> This is Aman Kumar </h1>
 <h4 > A Computer Science and Engineering student at Indian Institute of Information Technology, Ranchi </h4>
 <h4>
- <a href='https://requip.herokuapp.com/resume/Resume_Aman_Kumar_Software_Devlopment'>  
+ <a href='https://requip.herokuapp.com/resume/Resume_Aman_Kumar_Software_Devlopment' target='_blank'>  
   Resume 
  </a>
 </h4>
